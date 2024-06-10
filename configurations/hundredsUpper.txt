@@ -1,0 +1,5 @@
+12:billion
+9:milliard
+6:million
+3:mille
+2:cent
